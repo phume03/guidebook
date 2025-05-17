@@ -4,11 +4,11 @@
 
     1. A person or group addressing a problem creates the first iteration of software that offers one solution to that problem.
 
-    1. Other people with similar needs start using it, forming the core of a userbase.
+    2. Other people with similar needs start using it, forming the core of a userbase.
 
-    1. From the userbase arise enthusiasts, people who promote the software and the community emerging around it (that is, the values and principles that project seems to espouse).
+    3. From the userbase arise enthusiasts, people who promote the software and the community emerging around it (that is, the values and principles that project seems to espouse).
 
-    1. Eventually arising from the users and the enthusiasts come people who are interested in (and have grown capable of) contributing to the software in some way; they ensure the project remains active and responds to the changing nature of the problem for which it was originally developed.
+    4. Eventually arising from the users and the enthusiasts come people who are interested in (and have grown capable of) contributing to the software in some way; they ensure the project remains active and responds to the changing nature of the problem for which it was originally developed.
 
 Thus, the primary and continual focus for a project is to take good care of your users, for some of them will become your contributors, and you want them to do it out of love more than resentment.
 
